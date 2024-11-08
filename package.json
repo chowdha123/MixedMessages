@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "generate": "npm run ./script.js"
+    "generate": "node script.js"
   },
-  "author": "",
+  "author": "Abid Chowdhury",
   "license": "ISC"
 }
